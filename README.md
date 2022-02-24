@@ -1,2 +1,2 @@
 # bootcamp-pb-ex
-Repo for exercises for the PB bootcamp
+Repo for exercises/tasks for the PB bootcamp
